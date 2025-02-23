@@ -9,6 +9,8 @@ Know more about me - [Digital Resume
 
 
 💡 What I Do:  
+
+
 🔹 SQL & Databases – Writing efficient queries, optimizing performance, and managing data pipelines. 
 
 
