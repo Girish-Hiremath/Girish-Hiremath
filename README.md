@@ -8,8 +8,14 @@ Know more about me - [Digital Resume
 ](https://divyansh638.github.io/Digital-resume/)  
 💡 What I Do:
 🔹 SQL & Databases – Writing efficient queries, optimizing performance, and managing data pipelines. 
+
+
 🔹 Power BI & Excel – Creating dynamic dashboards and reports to visualize key trends. 
+
+
 🔹 Python & ML – Applying machine learning models for predictive analytics and automation. 
+
+
 🔹 Generative AI – Exploring AI-driven analytics, NLP, and automation solutions. 
 
 📂 Featured Projects:
