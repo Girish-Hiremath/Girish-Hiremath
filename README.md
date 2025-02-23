@@ -4,6 +4,8 @@
 
 I am a passionate Data Analyst skilled in uncovering insights, automating workflows, and building data-driven solutions. With expertise in SQL, Power BI, Excel, Python, Machine Learning, and Generative AI, I leverage data to drive business decisions and innovation.
 
+Know more about me - [Digital Resume
+](https://divyansh638.github.io/Digital-resume/)
 💡 What I Do:
 🔹 SQL & Databases – Writing efficient queries, optimizing performance, and managing data pipelines. 
 🔹 Power BI & Excel – Creating dynamic dashboards and reports to visualize key trends. 
