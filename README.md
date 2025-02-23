@@ -11,6 +11,7 @@ I am a passionate Data Analyst skilled in uncovering insights, automating workfl
 🔹 Generative AI – Exploring AI-driven analytics, NLP, and automation solutions. 
 
 📂 Featured Projects:
+
 📊 Analysis of Rental Patterns and Film Popularity in MavenMovies Database
 
 💼 Looking for collaboration opportunities! Let's connect and explore how data can drive innovation.
