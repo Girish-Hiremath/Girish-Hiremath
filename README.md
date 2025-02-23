@@ -8,7 +8,7 @@ Know more about me - [Digital Resume
 ](https://divyansh638.github.io/Digital-resume/) 
 
 
-💡 What I Do:
+💡 What I Do:  
 🔹 SQL & Databases – Writing efficient queries, optimizing performance, and managing data pipelines. 
 
 
