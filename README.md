@@ -26,4 +26,4 @@ Know more about me - [Digital Resume
 
 💼 Looking for collaboration opportunities! Let's connect and explore how data can drive innovation.
 
-📩 Contact: 9019221850 | hiremathgirish2@gmail.com | [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) | [GitHub](https://github.com/Girish-Hiremath)
+📩 Contact: +91 9019221850 | hiremathgirish2@gmail.com | [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) | [GitHub](https://github.com/Girish-Hiremath)
