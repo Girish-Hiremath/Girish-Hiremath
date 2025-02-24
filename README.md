@@ -1,11 +1,11 @@
-# Girish Hiremath 👋
+# Hi Everyone 👋
 📊 Data Analyst | SQL | Power BI | Excel | Python | ML | Generative AI
 🚀 Turning Data into Insights, One Query at a Time!
 
 I am a passionate Data Analyst skilled in uncovering insights, automating workflows, and building data-driven solutions. With expertise in SQL, Power BI, Excel, Python, Machine Learning, and Generative AI, I leverage data to drive business decisions and innovation.
 
 Know more about me - [Digital Resume
-](https://divyansh638.github.io/Digital-resume/) 
+]() 
 
 
 💡 What I Do:  
