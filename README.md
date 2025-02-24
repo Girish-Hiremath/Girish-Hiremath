@@ -1,6 +1,6 @@
 # Hi Everyone 👋
 
-Girish Hiremath  
+**Girish Hiremath**  
 Data Analyst | SQL | Power BI | Excel | Python | ML | Generative AI  
 🚀 Turning Data into Insights, One Query at a Time!
 
