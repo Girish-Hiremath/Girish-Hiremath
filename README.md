@@ -22,7 +22,7 @@ Know more about me - [Digital Resume
 
 🔹 Generative AI – Exploring AI-driven analytics, NLP, and automation solutions. 
 
-📂 Featured Projects:
+# 📂 Featured Projects:
 
 📊 Analysis of Rental Patterns and Film Popularity in MavenMovies Database
 
