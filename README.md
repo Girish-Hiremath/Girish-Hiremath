@@ -27,7 +27,11 @@ Know more about me - [Digital Resume
 # 📂 Featured Projects:
 
 📊 Analysis Baseball Major League Baseball(MLB)
+
+
 📊 Analysis of Amazon Sales Data
+
+
 📊 Analysis of Rental Patterns and Film Popularity in MavenMovies Database
 
 
