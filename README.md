@@ -6,10 +6,6 @@ Data Analyst | SQL | Power BI | Excel | Python | ML | Generative AI
 
 I am a passionate Data Analyst skilled in uncovering insights, automating workflows, and building data-driven solutions. With expertise in SQL, Power BI, Excel, Python, Machine Learning, and Generative AI, I leverage data to drive business decisions and innovation.
 
-Know more about me - [Digital Resume
-]() 
-
-
 # 💡 What I Do:  
 
 
